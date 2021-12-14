@@ -1,0 +1,11 @@
+li {font-size: 35px;}
+h1 {font-size: 100px;}
+h2 {font-size: 75px;}
+h3{font-size: 50px;}
+p {font-size: 40px}
+button {font-size: 30px;
+        background-color: rgb(126, 147, 170);
+        color:rgb(3, 46, 92);
+        font-weight:bold;
+}
+

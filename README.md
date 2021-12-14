@@ -1,3 +1,3 @@
 # odin-recipes
-Recipes github repository <br> <br>
-This is just me trying to create a new project for experience following the odin project.
+Recipes github repository
+I am building a recipe app according to the Odin Project and githubs requirements.
